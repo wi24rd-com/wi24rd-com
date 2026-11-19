@@ -15,6 +15,7 @@ Built by Jan Tingsvad, who has been writing code since 1995.
 | Project | What it does | Status |
 |---|---|---|
 | **[Wi24rd Huginn and Muninn](https://github.com/wi24rd-com/huginn-muninn)** | Desktop app that shows, in plain language, what Cloudflare stopped on your own domains, and keeps the history on your computer. | Released · macOS (Apple silicon) · Apache-2.0 |
+| **[Wi24rd Grimnir](https://github.com/wi24rd-com/grimnir)** | Desktop app that masks sensitive values in logs and scripts before you share them with vendor support or a chatbot, and restores them afterwards. | Released · macOS (Apple silicon) · Apache-2.0 |
 | **[Wi24rd FTP](https://github.com/wi24rd-com/Wi24rd-FTP)** | Temporary file sharing on Windows' built-in FTP/SFTP server: drag files in, press Start, hand over a one-time password, press Stop. | Released · Windows · MIT |
 | **[Wi24rd Site Kit](https://github.com/wi24rd-com/Wi24rd-Site-Kit)** | The engine behind wi24rd.com and an open demo of the Cloudflare Developer Platform, with no build step. | Released · MIT |
 | **[XDRagon Monitor](https://wi24rd.com/en/software/xdragon-monitor/)** | Open-source security monitoring (XDR) for small and mid-sized businesses without a security team. | In development · not released |
