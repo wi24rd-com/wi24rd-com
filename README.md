@@ -18,7 +18,10 @@ Built by Jan Tingsvad, who has been writing code since 1995.
 | **[Wi24rd Grimnir](https://github.com/wi24rd-com/grimnir)** | Desktop app that masks sensitive values in logs and scripts before you share them with vendor support or a chatbot, and restores them afterwards. | Released · macOS (Apple silicon) · Apache-2.0 |
 | **[Wi24rd FTP](https://github.com/wi24rd-com/Wi24rd-FTP)** | Temporary file sharing on Windows' built-in FTP/SFTP server: drag files in, press Start, hand over a one-time password, press Stop. | Released · Windows · MIT |
 | **[Wi24rd Site Kit](https://github.com/wi24rd-com/Wi24rd-Site-Kit)** | The engine behind wi24rd.com and an open demo of the Cloudflare Developer Platform, with no build step. | Released · MIT |
+| **[Wi24rd Mimir](https://github.com/wi24rd-com/mimir)** | Keeps the history of your GitHub traffic and release downloads in your own account, with a dashboard, badges and a guided setup. | Released · GitHub template · Apache-2.0 |
 | **[XDRagon Monitor](https://wi24rd.com/en/software/xdragon-monitor/)** | Open-source security monitoring (XDR) for small and mid-sized businesses without a security team. | In development · not released |
+
+[![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwi24rd-com%2Fmimir-wi24rd%2Fdata%2Fbadges%2Ftotal_downloads.json)](https://wi24rd-com.github.io/mimir-wi24rd/) Release downloads across the projects, counted by Wi24rd Mimir. [See the figures live](https://wi24rd-com.github.io/mimir-wi24rd/).
 
 ## How it is built
 
